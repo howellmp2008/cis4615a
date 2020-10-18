@@ -1,3 +1,5 @@
+//Rule 06. Methods (MET)
+//MET01-J. Never use assertions to validate method arguments
 //Non-compliant Code
 public static int getAbsAdd(int x, int y) {
   assert x != Integer.MIN_VALUE;

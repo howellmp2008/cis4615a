@@ -8,3 +8,5 @@ public void deleteFile(){
   }
  
 }
+
+Link: https://wiki.sei.cmu.edu/confluence/display/java/EXP00-J.+Do+not+ignore+values+returned+by+methods

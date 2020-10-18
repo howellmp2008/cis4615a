@@ -9,3 +9,5 @@ public String sanitizeUser(String username) {
   return Pattern.matches("[A-Za-z0-9_]+", username))
       ? username : "unauthorized user";
 }
+
+Link: https://wiki.sei.cmu.edu/confluence/display/java/IDS03-J.+Do+not+log+unsanitized+user+input

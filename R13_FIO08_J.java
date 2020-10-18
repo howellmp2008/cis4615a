@@ -1,3 +1,5 @@
+//Rule 13. Input Output (FIO)
+//FIO08-J. Distinguish between characters or bytes read from a stream and -1
 //Non-compliant Code
 FileInputStream in;
 // Initialize stream

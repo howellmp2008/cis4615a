@@ -1,3 +1,4 @@
+//Rule 00: Input Validation and Data Sanitization (IDS)
 //IDS03-J. Do not log unsanitized user input
 //Non-compliant code
 if (loginSuccessful) {

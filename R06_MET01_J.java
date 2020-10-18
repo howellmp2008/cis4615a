@@ -10,3 +10,5 @@ public static int getAbsAdd(int x, int y) {
   }
   return absX + absY;
 }
+
+Link: https://wiki.sei.cmu.edu/confluence/display/java/MET01-J.+Never+use+assertions+to+validate+method+arguments

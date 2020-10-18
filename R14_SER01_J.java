@@ -1,3 +1,5 @@
+//Rule 14. Serialization (SER)
+//SER01-J. Do not deviate from the proper signatures of serialization methods
 //Non-compliant Code
 public class Ser implements Serializable {
   private final long serialVersionUID = 123456789;

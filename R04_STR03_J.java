@@ -3,3 +3,5 @@ byte[] byteArray = x.toByteArray();
 String s = new String(byteArray);
 byteArray = s.getBytes();
 x = new BigInteger(byteArray);
+
+Link: https://wiki.sei.cmu.edu/confluence/display/java/STR03-J.+Do+not+encode+noncharacter+data+as+a+string
